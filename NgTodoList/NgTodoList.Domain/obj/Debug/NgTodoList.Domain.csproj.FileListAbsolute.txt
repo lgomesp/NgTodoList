@@ -1,0 +1,7 @@
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Domain.dll
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Domain.pdb
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Utils.dll
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Utils.pdb
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.dll
+C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.pdb
