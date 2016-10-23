@@ -3,3 +3,8 @@ C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.U
 C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.csprojResolveAssemblyReference.cache
 C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.dll
 C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.pdb
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.pdb
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.pdb

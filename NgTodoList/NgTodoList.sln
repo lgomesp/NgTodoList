@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgTodoList.Domain.Tests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgTodoList.Utils", "NgTodoList.Utils\NgTodoList.Utils.csproj", "{8203282E-C661-469A-89A6-5D1063971F04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgTodoList.Infra", "NgTodoList.Infra\NgTodoList.Infra.csproj", "{966174ED-53F9-412A-97BE-E0A2FCCBEA3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8203282E-C661-469A-89A6-5D1063971F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8203282E-C661-469A-89A6-5D1063971F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8203282E-C661-469A-89A6-5D1063971F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966174ED-53F9-412A-97BE-E0A2FCCBEA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966174ED-53F9-412A-97BE-E0A2FCCBEA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966174ED-53F9-412A-97BE-E0A2FCCBEA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966174ED-53F9-412A-97BE-E0A2FCCBEA3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

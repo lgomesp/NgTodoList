@@ -8,3 +8,13 @@ C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.D
 C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.csprojResolveAssemblyReference.cache
 C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.dll
 C:\Users\GreenMind\documents\visual studio 2015\Projects\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.pdb
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.Tests.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.Tests.pdb
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Utils.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.pdb
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Utils.pdb
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.dll
+C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.pdb
