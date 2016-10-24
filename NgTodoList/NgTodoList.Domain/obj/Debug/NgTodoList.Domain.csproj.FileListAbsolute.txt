@@ -12,3 +12,10 @@ C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoL
 C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.dll
 C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Domain.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Utils.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Utils.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.pdb

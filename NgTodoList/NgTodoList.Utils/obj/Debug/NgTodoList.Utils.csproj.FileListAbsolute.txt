@@ -7,3 +7,7 @@ C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoLi
 C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.pdb
 C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.dll
 C:\Users\Lucas\Desktop\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1932\24.10\NgTodoList\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.pdb
